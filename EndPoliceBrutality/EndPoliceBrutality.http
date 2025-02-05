@@ -1,0 +1,6 @@
+@EndPoliceBrutality_HostAddress = http://localhost:5004
+
+GET {{EndPoliceBrutality_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
